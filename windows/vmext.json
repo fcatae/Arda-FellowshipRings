@@ -22,8 +22,8 @@
                 "autoUpgradeMinorVersion": true,
                 "settings": {
                     "fileUris": [
-                        "https://raw.githubusercontent.com/DXBrazil/ArdaDeploy/master/windows/execute-compose.ps1",
-                        "https://raw.githubusercontent.com/DXBrazil/ArdaDeploy/master/windows/docker-compose.yml"
+                        "https://raw.githubusercontent.com/fcatae/Arda-FellowshipRings/master/windows/execute-compose.ps1",
+                        "https://raw.githubusercontent.com/fcatae/Arda-FellowshipRings/master/windows/docker-compose.yml"
                     ]
                 },
                 "protectedSettings": {
