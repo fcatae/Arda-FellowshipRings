@@ -17,8 +17,8 @@
     },
     "variables": {
         "vmName": "ardahost",
-        "templateVM": "https://raw.githubusercontent.com/fcatae/Arda-FellowshipRings/master/vm.json",
-        "templateSetupDocker": "https://raw.githubusercontent.com/fcatae/Arda-FellowshipRings/master/vmext.json"
+        "templateVM": "https://raw.githubusercontent.com/fcatae/Arda-FellowshipRings/master/windows/vm.json",
+        "templateSetupDocker": "https://raw.githubusercontent.com/fcatae/Arda-FellowshipRings/master/windows/vmext.json"
     },
     "resources": [
       {
