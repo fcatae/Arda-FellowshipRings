@@ -15,3 +15,11 @@ Here we have a content navigation summary. Enjoy!
 6. [Configuration](https://github.com/DXBrazil/Arda/wiki/Configuration)<br />
 7. [Technical Decisions](https://github.com/DXBrazil/Arda/wiki/Technical-Decisions)<br />
 8. [Authentication](https://github.com/DXBrazil/Arda/wiki/Authentication)<br />
+
+
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ffcatae%2FArda-FellowshipRings%2Fmaster%2Fwindows%2Fazuredeploy.json" target="_blank">
+    Windows Container: <img src="http://azuredeploy.net/deploybutton.png"/>
+</a>
+<a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Ffcatae%2FArda-FellowshipRings%2Fmaster%2Fwindows%2Fazuredeploy.json" target="_blank">
+    <img src="http://armviz.io/visualizebutton.png"/>
+</a>
