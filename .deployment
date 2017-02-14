@@ -1,3 +1,2 @@
 [config]
-COMMAND=run-webapp.sh
-WEBSITE_DISABLE_SCM_SEPARATION=true
+project=Arda.Main
