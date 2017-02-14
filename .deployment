@@ -1,0 +1,2 @@
+[config]
+COMMAND=./run-webapp.sh

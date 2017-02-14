@@ -1,4 +1,7 @@
 #!/bin/bash
 cd src/Arda.Main
-dotnet restore
-dotnet run
+ls
+
+ls /
+
+ls /app
