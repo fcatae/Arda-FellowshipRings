@@ -8,7 +8,5 @@ ls /usr/local/share
 
 ls /usr/local/lib
 
-./run.sh
-
-
+dotnet
 
