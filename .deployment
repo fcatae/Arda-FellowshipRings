@@ -1,2 +1,3 @@
 [config]
-command=run-webapp.sh
+COMMAND=run-webapp.sh
+WEBSITE_DISABLE_SCM_SEPARATION=true
